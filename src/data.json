@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "Door Visor", "description": "A Visor for the Door!", "price": 100},
+    {"id": 2, "name": "Mud Guard", "description": "Guards the Mud", "price": 200},
+    {"id": 3, "name": "Seat Cover", "description": "Covers your Seat!!", "price": 300},
+    {"id": 4, "name": "Car Perfume", "description": "Car smell very nice", "price": 400},
+    {"id": 5, "name": "Car Charger", "description": "Not for charge car", "price": 500}
+]
